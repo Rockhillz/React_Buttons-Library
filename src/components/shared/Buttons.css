@@ -1,0 +1,294 @@
+
+.default {
+    background-color: white;
+    border: black 1px solid;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.primary {
+    background-color: #008CBA;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.danger {
+    background-color: #f44336;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.hover {
+    background-color: lightslategray;
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.navyBlue {
+    background-color: navy;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.babyBlue {
+    background-color: #89cff0;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.smoky {
+    background-color: #F5f5f5;
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.linene {
+    background-color: #d5dad5;
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.white {
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.wheat {
+    background-color: rgb(233, 224, 207);
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.coral {
+    background-color: lightcoral;
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.darkRed {
+    background-color: darkred;
+    border: none;
+    border-radius: 8px;
+    color: rgb(243, 236, 236);
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.lightSalmon {
+    background-color: lightsalmon;
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.success {
+    background-color: yellow;
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.hoverYellow {
+    background-color: rgb(231, 182, 91);
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.gold {
+    background-color: gold;
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.yell {
+    background-color: rgb(243, 216, 129);
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.lightGreen {
+    background-color: lightgreen;
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.green {
+    background-color: green;
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.darkGreen {
+    background-color: rgb(1, 44, 1);
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.greee {
+    background-color: rgb(104, 212, 104);
+    border: none;
+    border-radius: 8px;
+    color: black;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
